@@ -1,0 +1,68 @@
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe.config
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.pdb
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.AssemblyReference.cache
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.SuggestedBindingRedirects.cache
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmCOCARO.resources
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.Properties.Resources.resources
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.GenerateResource.cache
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.CoreCompileInputs.cache
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.exe
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.pdb
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Interop.WMPLib.dll
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\AxInterop.WMPLib.dll
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Interop.WMPLib.dll
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\AxInterop.WMPLib.dll
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.ResolveComReference.cache
+F:\14 - 21133021 - Nguyen Trong Dung\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmMP3.resources
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe.config
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.pdb
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmCOCARO.resources
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmMP3.resources
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.exe
+C:\Users\ADMIN\Downloads\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.pdb
+F:\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe.config
+F:\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe
+F:\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.pdb
+F:\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Interop.WMPLib.dll
+F:\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\AxInterop.WMPLib.dll
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.AssemblyReference.cache
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.SuggestedBindingRedirects.cache
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Interop.WMPLib.dll
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\AxInterop.WMPLib.dll
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.ResolveComReference.cache
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmCOCARO.resources
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmMP3.resources
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.Properties.Resources.resources
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.GenerateResource.cache
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.CoreCompileInputs.cache
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.exe
+F:\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.pdb
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe.config
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.exe
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Demo_Caro.pdb
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\Interop.WMPLib.dll
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\bin\Debug\AxInterop.WMPLib.dll
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.AssemblyReference.cache
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.SuggestedBindingRedirects.cache
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Interop.WMPLib.dll
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\AxInterop.WMPLib.dll
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.ResolveComReference.cache
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmCOCARO.resources
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.frmMP3.resources
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.Properties.Resources.resources
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.GenerateResource.cache
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.csproj.CoreCompileInputs.cache
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.exe
+F:\13 - 21133021 - Nguyễn Trọng Dũng ( lưu trữ môn học )\Lập Trình Hướng Đối Tượng\BTL_Demo_Co_Caro\Demo_Caro\obj\Debug\Demo_Caro.pdb
